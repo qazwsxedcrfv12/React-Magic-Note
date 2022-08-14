@@ -1,0 +1,30 @@
+.user-form{
+    position: absolute;
+    top: 25%;
+    left: 22%;
+    width: 50%;
+    margin: auto;
+    /* height: 50vh; */
+    background-color: rgba(0,0,0,0.34);
+    text-align: center;
+    padding: 19px;
+    margin-top: 29px;
+    border-radius: 8px;
+}
+
+/* .main-form{
+    width: 70%;
+    height: 50%;
+    margin: auto;
+    background-color: aqua;
+    padding: 12px;
+    margin: 12px;
+} */
+
+input{
+    padding: 12px;
+    border-radius: 12px;
+    background-color: antiquewhite;
+    border: none;
+    margin: 19px;
+}

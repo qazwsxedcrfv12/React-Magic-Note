@@ -1,0 +1,34 @@
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+    background: rgba(0,0,0,0.95);
+}
+
+.main-list{
+   /* border: 1px solid red; */
+}
+
+.list-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+    padding: 12px;
+    margin: 10px;
+    color: rgb(3, 3, 3);
+    background: #FFFF;
+    border-radius: 6.7px;
+    font-weight: 600;
+}
+
+input[type='text']{
+    width: 70%;
+    padding: 8px;
+    margin: auto 30px;
+    text-align: center;
+}

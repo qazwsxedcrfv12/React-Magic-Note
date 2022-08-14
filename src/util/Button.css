@@ -1,0 +1,12 @@
+.util-button{
+    width: 25%;
+    height: 4vh;
+    background-color: rgba(0,102,204,0.5);
+    color: #FFFF;
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+    /* padding: 11px; */
+    margin: 19px;
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.error-modal{
+    position: absolute;
+    top: 22%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 80%;
+    margin: auto;
+   background: #FFFF;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 12px;
+}
+
+body{
+    background: rgba(0,0,0,0.2);
+}

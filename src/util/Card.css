@@ -1,0 +1,9 @@
+.card-holder{
+    width: 400px;
+    height: 15vh;
+    background-color: bisque;
+    border-radius: 12px;
+    border: none;
+    text-align: center;
+    margin: 12px 12px;
+}
